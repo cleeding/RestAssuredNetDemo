@@ -1,6 +1,6 @@
 # RestAssuredNetDemo
 
-This project contains basic API tests written in C# using the [RestAssured.Net](https://github.com/rest-assured-net/RestAssured.Net) library and [xUnit](https://xunit.net/) test framework.
+This project contains basic API tests written in C# using the [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net) library and [xUnit](https://xunit.net/) test framework.
 
 ## Overview
 
