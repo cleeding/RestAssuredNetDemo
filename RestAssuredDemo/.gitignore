@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
